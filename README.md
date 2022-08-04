@@ -1,6 +1,6 @@
 # x82y
 某里有感、无感滑块验证教程
-此教程只做参考。
+此教程只做参考。cf.aliyun.com
 
 /nocaptcha/initialize.jsonp 
 /nvc/nvcPrepare.jsonp 
